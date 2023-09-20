@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 19 14:44:21 2023
-
-@author: Manh Tran-Duy
-"""
-
 # Import required libraries
 import pandas as pd
 import dash
